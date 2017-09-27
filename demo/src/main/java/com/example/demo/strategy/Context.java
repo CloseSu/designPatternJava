@@ -1,0 +1,15 @@
+package com.example.demo.strategy;
+
+import com.example.demo.strategy.strategy.Strategy;
+
+public class Context {
+	Strategy strategy;
+	
+	public Context(Strategy strategy) {
+		this.strategy = strategy;
+	}
+	
+	public void useAlgorithm() {
+		strategy.algorithm();
+	}
+}

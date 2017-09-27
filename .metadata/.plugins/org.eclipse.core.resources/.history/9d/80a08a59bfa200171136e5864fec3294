@@ -1,0 +1,7 @@
+package com.example.demo.decorator.decorator;
+
+import com.example.demo.decorator.component.Component;
+
+public class ConcreDecortorA extends Decorator {
+	
+}

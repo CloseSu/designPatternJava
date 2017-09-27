@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;demo/src/main/java/com/example/demo/simplefactory/interface&apos; to &apos;interfac&apos;" description="Rename resource &apos;interface&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/example/demo/simplefactory/interface" name="interfac" stamp="1506429284679" updateReferences="true"/>
+</session>

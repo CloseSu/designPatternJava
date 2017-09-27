@@ -1,0 +1,22 @@
+package com.example.demo.simplefactory.factory;
+
+import com.example.demo.simplefactory.Circle;
+import com.example.demo.simplefactory.Square;
+import com.example.demo.simplefactory.interfac.Shape;
+
+public class SimpleFactory {
+	
+	Shape shape;
+	
+	public Shape createShape(String product) {
+		shape
+		if (product.equals("circle")) {
+			shape = new Circle();
+		} else if (product.equals("square")){
+			shape = new Square();
+		} else {
+			return null;
+		}
+		return shape;
+	}	
+}

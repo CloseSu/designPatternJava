@@ -1,0 +1,16 @@
+package com.example.demo.decorator.decorator;
+
+
+public class ConcreDecortorA extends Decorator {
+	
+	private String aMethod() {
+		return "decoraterA";
+	}
+	
+	@Override
+	public void operation() {
+		this.operation();
+	}
+	
+	
+}

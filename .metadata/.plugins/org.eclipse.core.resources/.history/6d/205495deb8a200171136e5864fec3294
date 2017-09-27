@@ -1,0 +1,7 @@
+package com.example.demo.simpledactoryTest;
+
+
+@RunWith(SpringJUnit4ClassRunner.class)
+public class SimpleFactoryTest {
+	
+}

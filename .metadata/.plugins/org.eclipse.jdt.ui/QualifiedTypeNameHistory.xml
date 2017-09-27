@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.example.demo.simplefactory.Shape"/>
+<fullyQualifiedTypeName name="com.example.demo.simplefactory.interfac.Shape"/>
+<fullyQualifiedTypeName name="com.example.demo.simplefactory.Circle"/>
+<fullyQualifiedTypeName name="com.example.demo.simplefactory.Square"/>
+<fullyQualifiedTypeName name="org.springframework.test.context.junit4.SpringJUnit4ClassRunner"/>
+<fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+<fullyQualifiedTypeName name="com.example.demo.simpledactoryTest.SimpleFactoryTest"/>
+<fullyQualifiedTypeName name="com.example.demo.simplefactory.factory.SimpleFactory"/>
+<fullyQualifiedTypeName name="com.example.demo.strategy.strategy.Strategy"/>
+<fullyQualifiedTypeName name="com.example.demo.strategy.Context"/>
+<fullyQualifiedTypeName name="com.example.demo.strategy.concreteStrategy.ConcreteStrateA"/>
+<fullyQualifiedTypeName name="com.example.demo.strategy.concreteStrategy.ConcreteStrateB"/>
+<fullyQualifiedTypeName name="com.example.demo.strategy.concreteStrategy.ConcreteStrateC"/>
+<fullyQualifiedTypeName name="com.example.demo.decorator.component.Component"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="com.example.demo.decoratorTest.DecorateTest"/>
+<fullyQualifiedTypeName name="com.example.demo.decorator.component.ConcreteComponent"/>
+<fullyQualifiedTypeName name="com.example.demo.decorator.decorator.ConcreDecortorA"/>
+<fullyQualifiedTypeName name="com.example.demo.decorator.decorator.ConcreDecortorB"/>
+</qualifiedTypeNameHistroy>

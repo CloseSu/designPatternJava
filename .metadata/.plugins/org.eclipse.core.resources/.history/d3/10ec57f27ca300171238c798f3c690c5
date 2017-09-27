@@ -1,0 +1,13 @@
+package com.example.demo.proxy;
+
+public class Proxy extends Subject {
+
+	RealSubject realSubject;
+	
+	@Override
+	public void Request() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
