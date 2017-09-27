@@ -1,0 +1,5 @@
+package com.example.demo.factory.factory;
+
+public interface IFactory {
+	Night
+}

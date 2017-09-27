@@ -1,0 +1,13 @@
+package com.example.demo.factory.factory;
+
+import com.example.demo.factory.object.Nightinggale;
+
+public class VolunteerFactory implements IFactory {
+
+	@Override
+	public Nightinggale CreateNightinggale() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
