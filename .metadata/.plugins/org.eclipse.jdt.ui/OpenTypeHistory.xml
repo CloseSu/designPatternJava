@@ -3,4 +3,8 @@
 <typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.simplefactory.interfac{Shape.java[Shape" modifiers="513" timestamp="1506429295312"/>
 <typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.strategy.strategy{Strategy.java[Strategy" modifiers="513" timestamp="1506430741918"/>
 <typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.decorator.component{Component.java[Component" modifiers="513" timestamp="1506432076449"/>
+<typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.proxy{Subject.java[Subject" modifiers="1025" timestamp="1506514129411"/>
+<typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.factory.factory{IFactory.java[IFactory" modifiers="513" timestamp="1506515172773"/>
+<typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.factory.object{Nightinggale.java[Nightinggale" modifiers="1" timestamp="1506515102289"/>
+<typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.template{AbstractClass.java[AbstractClass" modifiers="1025" timestamp="1506516221082"/>
 </typeInfoHistroy>

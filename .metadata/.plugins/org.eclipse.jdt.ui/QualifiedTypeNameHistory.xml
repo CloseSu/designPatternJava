@@ -14,9 +14,19 @@
 <fullyQualifiedTypeName name="com.example.demo.strategy.concreteStrategy.ConcreteStrateB"/>
 <fullyQualifiedTypeName name="com.example.demo.strategy.concreteStrategy.ConcreteStrateC"/>
 <fullyQualifiedTypeName name="com.example.demo.decorator.component.Component"/>
-<fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="com.example.demo.decoratorTest.DecorateTest"/>
 <fullyQualifiedTypeName name="com.example.demo.decorator.component.ConcreteComponent"/>
 <fullyQualifiedTypeName name="com.example.demo.decorator.decorator.ConcreDecortorA"/>
 <fullyQualifiedTypeName name="com.example.demo.decorator.decorator.ConcreDecortorB"/>
+<fullyQualifiedTypeName name="com.example.demo.proxy.RealSubject"/>
+<fullyQualifiedTypeName name="com.example.demo.proxy.Proxy"/>
+<fullyQualifiedTypeName name="com.example.demo.factory.object.Undergraduate"/>
+<fullyQualifiedTypeName name="com.example.demo.factory.object.Volunteer"/>
+<fullyQualifiedTypeName name="com.example.demo.factory.factory.IFactory"/>
+<fullyQualifiedTypeName name="com.example.demo.factory.factory.UndergraduateFactory"/>
+<fullyQualifiedTypeName name="com.example.demo.factory.object.Nightinggale"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="com.example.demo.template.AbstractClass"/>
+<fullyQualifiedTypeName name="com.example.demo.template.ConcreteClassA"/>
+<fullyQualifiedTypeName name="com.example.demo.template.ConcreteClassB"/>
 </qualifiedTypeNameHistroy>
