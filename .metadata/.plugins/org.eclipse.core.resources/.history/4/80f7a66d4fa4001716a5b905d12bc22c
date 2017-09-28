@@ -1,0 +1,13 @@
+package com.example.demo.observer;
+
+import com.example.demo.observer.Subject;
+
+public class Boss extends Subject {
+
+	@Override
+	void notiffy() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

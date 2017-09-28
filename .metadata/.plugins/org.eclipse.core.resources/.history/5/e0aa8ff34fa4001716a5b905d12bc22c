@@ -1,0 +1,29 @@
+package com.example.demo.observer;
+
+import java.util.ArrayList;
+
+public class News implements Observable {
+
+	private ArrayList<Observer> readerList = new ArrayList<Observer>();
+	
+	private boolean latestNews = true; 
+	
+	@Override
+	public void register(Observer reader) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void unregister(Observer reader) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void notify(boolean isLatestNews) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,15 @@
+package com.example.demo.observer;
+
+public class NbaObserver {
+	private String name;
+	private Subject sub;
+	
+	public NbaObserver(String name, Subject sub) {
+		this.name = name;
+		this.sub = sub;
+	}
+	
+	public void closeNbaLiving() {
+		System.out.println(sub.getSubjectState() + " " + name +  "關閉NBA直播，繼續工作!!");
+	}
+}

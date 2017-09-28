@@ -1,0 +1,23 @@
+package com.example.demo.observer;
+
+public class News implements Observable {
+
+	@Override
+	public void register(Observer reader) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void unregister(Observer reader) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void notify(boolean isLatestNews) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

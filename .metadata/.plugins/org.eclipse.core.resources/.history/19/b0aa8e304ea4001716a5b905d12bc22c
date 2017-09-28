@@ -1,0 +1,11 @@
+package com.example.demo.observer;
+
+public class StockObserver {
+	private String name;
+	private Subject sub;
+	
+	public StockObserver(String name, String sub) {
+		this.name = name;
+		this.sub = sub;
+	}
+}

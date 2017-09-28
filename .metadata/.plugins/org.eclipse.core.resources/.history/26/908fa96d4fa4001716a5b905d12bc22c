@@ -1,0 +1,14 @@
+package com.example.demo.observer;
+
+public abstract class Subject {
+	abstract void notiffy();
+	String subjectState;
+	
+	public String getSubjectState() {
+		return subjectState;
+	}
+	public void setSubjectState(String subjectState) {
+		this.subjectState = subjectState;
+	}
+	
+}

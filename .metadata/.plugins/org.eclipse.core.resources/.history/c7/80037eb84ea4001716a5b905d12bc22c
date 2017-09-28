@@ -1,0 +1,13 @@
+package com.example.demo.observer;
+
+import com.example.demo.proxy.Subject;
+
+public class Boss extends Subject {
+
+	@Override
+	public void Request() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

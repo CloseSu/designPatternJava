@@ -1,0 +1,6 @@
+package com.example.demo.observer;
+
+public abstract class Subject {
+	abstract void notiffy();
+	
+}

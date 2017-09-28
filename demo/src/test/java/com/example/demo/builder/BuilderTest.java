@@ -1,0 +1,26 @@
+package com.example.demo.builder;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.test.context.junit4.SpringRunner;
+
+@RunWith(SpringRunner.class)
+public class BuilderTest {
+	
+	@Test
+	public void builderTest() {
+		Director director = new Director();
+		Builder b1 = new ConcreteBuilder1();
+		Builder b2 = new ConcreteBuilder2();
+		
+		director.construct(b1);
+		Product p1 = b1.getResult();
+		p1.show();
+		
+		director.construct(b2);
+		Product p2 = b2.getResult();
+		p2.show();
+		
+	}
+	
+}

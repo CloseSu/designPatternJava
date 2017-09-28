@@ -1,0 +1,16 @@
+package com.example.demo.facade;
+
+public class Facade {
+	SubSystemOne one;
+	SubSystemTwo two;
+	SubSystemThree three;
+	SubSystemFour four;
+	
+	public Favade() {
+		one = new SubSystemOne();
+		two = new SubSystemTwo();
+		three = new SubSystemThree();
+		four = new SubSystemFour();
+	}
+
+}

@@ -1,0 +1,32 @@
+package com.example.demo.observer;
+
+public class Reader implements Observer {
+
+	private String name = null;
+	private Observable news = null;
+	
+	@Override
+	public void subscribe(Observable news) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void unsubscribe() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void update(boolean isLastestNews) {
+		read(isLastestNews);
+	}
+
+	private void read(boolean latestNews){
+		if(latestNews){
+			System.out.println(name + " read latest news");
+		} else {
+			System.out.println(name + " read old news");
+		}
+	}
+}

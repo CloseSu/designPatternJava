@@ -1,0 +1,8 @@
+package com.example.demo.facade;
+
+public class SubSystemThree {
+	public void method() {
+		System.out.println("子系統方法三");
+	}
+
+}
