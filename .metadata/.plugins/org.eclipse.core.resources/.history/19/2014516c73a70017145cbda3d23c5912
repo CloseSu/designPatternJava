@@ -1,0 +1,27 @@
+package com.example.demo.composite;
+
+public class Leaf extends Component {
+
+	public Leaf(String name) {
+		this.name = name;
+	}
+	
+	@Override
+	public void add(Component c) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void remove(Component c) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void display(int depth) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

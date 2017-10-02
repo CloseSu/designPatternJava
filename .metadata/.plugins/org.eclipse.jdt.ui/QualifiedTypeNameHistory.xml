@@ -25,8 +25,21 @@
 <fullyQualifiedTypeName name="com.example.demo.factory.factory.IFactory"/>
 <fullyQualifiedTypeName name="com.example.demo.factory.factory.UndergraduateFactory"/>
 <fullyQualifiedTypeName name="com.example.demo.factory.object.Nightinggale"/>
-<fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="com.example.demo.template.AbstractClass"/>
 <fullyQualifiedTypeName name="com.example.demo.template.ConcreteClassA"/>
 <fullyQualifiedTypeName name="com.example.demo.template.ConcreteClassB"/>
+<fullyQualifiedTypeName name="com.example.demo.facade.SubSystemOne"/>
+<fullyQualifiedTypeName name="com.example.demo.facade.SubSystemTwo"/>
+<fullyQualifiedTypeName name="com.example.demo.facade.SubSystemThree"/>
+<fullyQualifiedTypeName name="com.example.demo.facade.SubSystemFour"/>
+<fullyQualifiedTypeName name="com.example.demo.facade.Facade"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.example.demo.builder.Product"/>
+<fullyQualifiedTypeName name="com.example.demo.builder.Director"/>
+<fullyQualifiedTypeName name="com.example.demo.builder.ConcreteBuilder1"/>
+<fullyQualifiedTypeName name="com.example.demo.observer.StockObserver"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Observer"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
 </qualifiedTypeNameHistroy>

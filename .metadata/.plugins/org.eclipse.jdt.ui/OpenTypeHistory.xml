@@ -3,8 +3,11 @@
 <typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.simplefactory.interfac{Shape.java[Shape" modifiers="513" timestamp="1506429295312"/>
 <typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.strategy.strategy{Strategy.java[Strategy" modifiers="513" timestamp="1506430741918"/>
 <typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.decorator.component{Component.java[Component" modifiers="513" timestamp="1506432076449"/>
-<typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.proxy{Subject.java[Subject" modifiers="1025" timestamp="1506514129411"/>
 <typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.factory.factory{IFactory.java[IFactory" modifiers="513" timestamp="1506515172773"/>
 <typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.factory.object{Nightinggale.java[Nightinggale" modifiers="1" timestamp="1506515102289"/>
 <typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.template{AbstractClass.java[AbstractClass" modifiers="1025" timestamp="1506516221082"/>
+<typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.builder{Builder.java[Builder" modifiers="1025" timestamp="1506602888327"/>
+<typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.proxy{Subject.java[Subject" modifiers="1025" timestamp="1506514129411"/>
+<typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.observer{Observable.java[Observable" modifiers="513" timestamp="1506604779833"/>
+<typeInfo handle="=demo/src\/main\/java&lt;com.example.demo.observer{Observer.java[Observer" modifiers="513" timestamp="1506604798536"/>
 </typeInfoHistroy>
