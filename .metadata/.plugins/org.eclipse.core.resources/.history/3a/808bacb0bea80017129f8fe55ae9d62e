@@ -1,0 +1,11 @@
+package com.example.demo.interpreter;
+
+public class TerminalExpression extends AbstractExpression {
+
+	@Override
+	public void intepret(Context context) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
