@@ -1,0 +1,14 @@
+package com.example.demo.mediator;
+
+public class ConcreteMediator extends Mediator {
+
+	private ConcreteColleague1 colleague1;
+	private ConcreteColleague2 colleague2;
+	
+	@Override
+	public void send(String message, Colleague colleague) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

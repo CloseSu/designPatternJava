@@ -1,0 +1,10 @@
+package com.example.demo.mediator;
+
+public class ConcreteColleague1 extends Colleague {
+
+	public ConcreteColleague1(Mediator mediator) {
+		super(mediator);
+		// TODO Auto-generated constructor stub
+	}
+
+}
