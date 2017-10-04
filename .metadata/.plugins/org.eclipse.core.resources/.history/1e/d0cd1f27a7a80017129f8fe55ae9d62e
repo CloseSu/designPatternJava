@@ -1,0 +1,6 @@
+package com.example.demo.command;
+
+public abstract class Command {
+	protected Receiver receiver;
+	
+}
