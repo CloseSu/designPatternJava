@@ -1,0 +1,6 @@
+package com.example.demo.visitor;
+
+public abstract class Visitor {
+	public abstract void visitConcreteElementA();
+	public abstract void visitConcreteElementb();
+}

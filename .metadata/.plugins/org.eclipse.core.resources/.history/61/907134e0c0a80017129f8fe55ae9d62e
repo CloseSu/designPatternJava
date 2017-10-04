@@ -1,0 +1,16 @@
+package com.example.demo.visitor;
+
+public class ConcreteVisitor1 extends Visitor {
+
+	@Override
+	public void visitConcreteElementA(ConcreteElementA concreteElementA) {
+		System.out.println(concreteElementA.getClass().getName()+"被"+this.getClass().getName()+"存取");
+	}
+
+	@Override
+	public void visitConcreteElementB(ConcreteElementB concreteElementB) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
