@@ -1,0 +1,5 @@
+package com.example.demo.flyweight;
+
+public class FlyweightTest {
+
+}

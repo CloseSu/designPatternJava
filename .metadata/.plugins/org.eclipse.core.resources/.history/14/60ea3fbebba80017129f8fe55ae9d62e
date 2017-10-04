@@ -1,0 +1,11 @@
+package com.example.demo.flyweight;
+
+public class UnsharedConcreteFlyweight extends Flyweight {
+
+	@Override
+	public void operation(int extrinsictate) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

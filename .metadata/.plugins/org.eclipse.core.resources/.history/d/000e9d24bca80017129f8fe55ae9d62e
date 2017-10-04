@@ -1,0 +1,17 @@
+package com.example.demo.flyweight;
+
+import java.util.Hashtable;
+
+public class FlyweightFactory {
+	private Hashtable<String, Flyweight> flyweights = new Hashtable<>();
+	
+	public FlyweightFactory() {
+		flyweights.put("x", new ConcreFlywieght());
+		flyweights.put("y", new ConcreFlywieght());
+		flyweights.put("z", new ConcreFlywieght());
+	}
+	
+	public Flyweight getFlyweight(String key) {
+		return flyweights.get(key)
+	}
+}

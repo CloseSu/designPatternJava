@@ -1,0 +1,11 @@
+package com.example.demo.flyweight;
+
+import java.util.Hashtable;
+
+public class FlyweightFactory {
+	private Hashtable<String, Flyweight> flyweights = new Hashtable<>();
+	
+	public FlyweightFactory() {
+		
+	}
+}
