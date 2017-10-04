@@ -1,0 +1,15 @@
+package com.example.demo.chanOfResponsibility;
+
+public class ConcreteHandler1 extends Handler {
+
+	@Override
+	public void HandlerRequest(int request) {
+		if(request >= 0 && request < 10 ) {
+			System.out.println(this.getClass().getName() + " 處裡請求" + request);
+		}else if(this.successor != null) {
+			successor.HandlerRequest(request);
+		}
+		
+	}
+	
+}

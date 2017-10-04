@@ -1,0 +1,11 @@
+package com.example.demo.chanOfResponsibility;
+
+public class ConcreteHandler1 extends Handler {
+
+	@Override
+	public void HandlerRequest(int request) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}
